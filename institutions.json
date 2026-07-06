@@ -1,0 +1,1265 @@
+[
+  {
+    "id": "bashkia-belsh",
+    "type": "municipality",
+    "title": "Bashkia Belsh",
+    "address": "",
+    "website": "https://bashkiabelsh.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "fatmira.broshka@bashkiabelsh.gov.al"
+    ],
+    "transparency_program": "https://bashkiabelsh.al/programi-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-berat",
+    "type": "municipality",
+    "title": "Bashkia Berat",
+    "address": "",
+    "website": "https://bashkiaberat.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "ermonela.niko@bashkiaberat.gov.al",
+      "info@bashkiaberat.gov.al"
+    ],
+    "transparency_program": "https://bashkiaberat.gov.al/transparenca/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-bulqize",
+    "type": "municipality",
+    "title": "Bashkia Bulqizë",
+    "address": "",
+    "website": "https://bulqiza.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "Bashkia.Bulqize@bulqiza.gov.al",
+      "olkeda.cupi@bulqiza.gov.al"
+    ],
+    "transparency_program": "https://bulqiza.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-cerrik",
+    "type": "municipality",
+    "title": "Bashkia Cërrik",
+    "address": "",
+    "website": "https://www.bashkiacerrik.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiacerrik.gov.al",
+      "isabaxhia@gmail.com"
+    ],
+    "transparency_program": "https://www.bashkiacerrik.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-delvine",
+    "type": "municipality",
+    "title": "Bashkia Delvinë",
+    "address": "",
+    "website": "https://www.bashkiadelvine.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "ardita.mane@bashkiadelvine.gov.al",
+      "info@bashkiadelvine.gov.al"
+    ],
+    "transparency_program": "https://www.bashkiadelvine.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-devoll",
+    "type": "municipality",
+    "title": "Bashkia Devoll",
+    "address": "",
+    "website": "https://www.bashkiadevoll.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "olli@bashkiadevoll.gov.al"
+    ],
+    "transparency_program": "https://www.bashkiadevoll.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-diber",
+    "type": "municipality",
+    "title": "Bashkia Dibër",
+    "address": "",
+    "website": "http://dibra.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "donjilashehi@gmail.com"
+    ],
+    "transparency_program": "http://dibra.gov.al/transparenca/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-dimal",
+    "type": "municipality",
+    "title": "Bashkia Dimal",
+    "address": "",
+    "website": "http://bashkiadimal.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "bashkia@uravajgurore.gov.al",
+      "rhoxha03@gmail.com"
+    ],
+    "transparency_program": "https://bashkiadimal.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-divjake",
+    "type": "municipality",
+    "title": "Bashkia Divjakë",
+    "address": "",
+    "website": "https://www.bashkiadivjake.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "abullari1989@hotmail.com",
+      "info@bashkiadivjake.gov.al"
+    ],
+    "transparency_program": "https://www.bashkiadivjake.gov.al/programi-i-transparences-bashkia-divjake/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-dropull",
+    "type": "municipality",
+    "title": "Bashkia Dropull",
+    "address": "",
+    "website": "https://www.bashkiadropull.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "Panajot.dhefto@bashkiadropull.gov.al",
+      "bashkiadropull@gmail.com",
+      "info@bashkiadropull.gov.al"
+    ],
+    "transparency_program": "https://www.bashkiadropull.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-durres",
+    "type": "municipality",
+    "title": "Bashkia Durrës",
+    "address": "",
+    "website": "https://durres.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@durres.gov.al",
+      "olta.dedej@durres.gov.al"
+    ],
+    "transparency_program": "https://durres.gov.al/wp-content/uploads/2023/11/Programi-i-transparences-2019-Bashkia-Durres.pdf",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-elbasan",
+    "type": "municipality",
+    "title": "Bashkia Elbasan",
+    "address": "",
+    "website": "https://elbasani.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "aida.urupi@elbasani.gov.al",
+      "bashkiaelbasan@elbasani.gov.al"
+    ],
+    "transparency_program": "https://elbasani.gov.al/transparencafinalpage/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-fier",
+    "type": "municipality",
+    "title": "Bashkia Fier",
+    "address": "",
+    "website": "https://bashkiafier.gov.al/ ",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiafier.gov.al",
+      "nbocova@yahoo.com"
+    ],
+    "transparency_program": "https://bashkiafier.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-finiq",
+    "type": "municipality",
+    "title": "Bashkia Finiq",
+    "address": "",
+    "website": "https://bfiniq.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "Sotir.Davella@bfiniq.gov.al"
+    ],
+    "transparency_program": "https://bfiniq.gov.al/transparency/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-fushe-arrez",
+    "type": "municipality",
+    "title": "Bashkia Fushë-Arrëz",
+    "address": "",
+    "website": "https://bashkiafushearrez.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiafushearrez.gov.al"
+    ],
+    "transparency_program": "https://www.bashkiafushearrez.gov.al/transparenca.html",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-gjirokaster",
+    "type": "municipality",
+    "title": "Bashkia Gjirokastër",
+    "address": "",
+    "website": "https://bashkiagjirokaster.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "anxhela.96@live.com"
+    ],
+    "transparency_program": "https://bashkiagjirokaster.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-gramsh",
+    "type": "municipality",
+    "title": "Bashkia Gramsh",
+    "address": "",
+    "website": "https://bashkiagramsh.gov.al/ ",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "bashkia.gramsh@bashkiagramsh.gov.al",
+      "klementina.kotorri@bashkiagramsh.gov.al"
+    ],
+    "transparency_program": "https://bashkiagramsh.gov.al/# ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-has",
+    "type": "municipality",
+    "title": "Bashkia Has",
+    "address": "",
+    "website": "https://www.bashkiahas.gov.al/ ",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "emirelapatarria@bashkiahas.gov.al",
+      "info@bashkiahas.gov.al"
+    ],
+    "transparency_program": "https://www.bashkiahas.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-himare",
+    "type": "municipality",
+    "title": "Bashkia Himarë",
+    "address": "",
+    "website": "https://himara.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@himara.gov.al",
+      "marino.prifti@himara.gov.al"
+    ],
+    "transparency_program": "https://himara.gov.al/organizimi-dhe-funksionimi-i-bashkise/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-kamez",
+    "type": "municipality",
+    "title": "Bashkia Kamëz",
+    "address": "",
+    "website": "https://kamza.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "bashkiakamez@gmail.com",
+      "info@kamza.gov.al",
+      "specialist.informimi@kamza.gov.al"
+    ],
+    "transparency_program": "https://kamza.gov.al/program-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-kavaje",
+    "type": "municipality",
+    "title": "Bashkia Kavajë",
+    "address": "",
+    "website": "https://kavajajone.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "Besime.Baja@bashkiakavaje.gov.al"
+    ],
+    "transparency_program": "https://kavajajone.al/sample-page/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-kelcyre",
+    "type": "municipality",
+    "title": "Bashkia Këlcyrë",
+    "address": "",
+    "website": "https://www.bashkiakelcyre.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "elonashkembi@bashkiakelcyre.gov.al",
+      "info@bashkiakelcyre.gov.al"
+    ],
+    "transparency_program": "https://www.bashkiakelcyre.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-klos",
+    "type": "municipality",
+    "title": "Bashkia Klos",
+    "address": "",
+    "website": "https://bashkiaklos.gov.al/kryetari-i-bashkise-klos/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "aurel.cira@bashkiaklos.gov.al",
+      "bashkia.klos@yahoo.com"
+    ],
+    "transparency_program": "https://bashkiaklos.gov.al/programi-i-transparences-3/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-kolonje",
+    "type": "municipality",
+    "title": "Bashkia Kolonjë",
+    "address": "",
+    "website": "https://www.kolonja.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@kolonja.gov.al",
+      "xhensila.kalemaj@kolonja.gov.al"
+    ],
+    "transparency_program": "https://www.kolonja.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-konispol",
+    "type": "municipality",
+    "title": "Bashkia Konispol",
+    "address": "",
+    "website": " https://www.bashkiakonispol.gov.al/ ",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "haniamarinela@gmail.com",
+      "info@bashkiakonispol.gov.al"
+    ],
+    "transparency_program": "https://www.bashkiakonispol.gov.al/programi-i-transparences-2/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-korce",
+    "type": "municipality",
+    "title": "Bashkia Korçë",
+    "address": "",
+    "website": "https://bashkiakorce.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "larisakatundi@gmail.com"
+    ],
+    "transparency_program": "https://sites.google.com/view/transparencabashkiakorce2021",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-kruje",
+    "type": "municipality",
+    "title": "Bashkia Krujë",
+    "address": "",
+    "website": "https://kruja.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@kruja.gov.al",
+      "xhulian.kafexhiu@kruja.gov.al"
+    ],
+    "transparency_program": "https://kruja.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-kucove",
+    "type": "municipality",
+    "title": "Bashkia Kuçovë",
+    "address": "",
+    "website": "https://bashkiakucove.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "erion.daci@bashkiakucove.gov.al"
+    ],
+    "transparency_program": "http://bashkiakucove.gov.al/?page_id=815",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-kukes",
+    "type": "municipality",
+    "title": "Bashkia Kukës",
+    "address": "",
+    "website": "https://kukesi.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@kukesi.gov.al"
+    ],
+    "transparency_program": "https://kukesi.gov.al/programi-i-transparences-per-autoritetin-publik-bashkia-kukes/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-kurbin",
+    "type": "municipality",
+    "title": "Bashkia Kurbin",
+    "address": "",
+    "website": "http://bashkiakurbin.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "Fabjanrrema3@gmail.com",
+      "bashkiakurbin@gmail.com",
+      "fabjanrrema@outlook.it",
+      "info@bashkiakurbin.gov.al"
+    ],
+    "transparency_program": "https://www.bashkiakurbin.gov.al/?page_id=3424 ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-lezhe",
+    "type": "municipality",
+    "title": "Bashkia Lezhë",
+    "address": "",
+    "website": "https://lezha.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "gjystina.nikulaj@lezha.gov.al",
+      "info@lezha.gov.al"
+    ],
+    "transparency_program": "https://lezha.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-libohove",
+    "type": "municipality",
+    "title": "Bashkia Libohovë",
+    "address": "",
+    "website": "https://www.bashkialibohove.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "Daniela.Hila@bashkialibohove.gov.al",
+      "info@bashkialibohove.gov.al"
+    ],
+    "transparency_program": "https://www.bashkialibohove.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-librazhd",
+    "type": "municipality",
+    "title": "Bashkia Librazhd",
+    "address": "",
+    "website": "https://bashkialibrazhd.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkialibrazhd.gov.al",
+      "ismethasa65@gmail.com",
+      "ismethasa@bashkialibrazhd.gov.al"
+    ],
+    "transparency_program": "https://bashkialibrazhd.gov.al/programi-i-transparences/  ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-lushnje",
+    "type": "municipality",
+    "title": "Bashkia Lushnje",
+    "address": "",
+    "website": "https://bashkialushnje.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "bashkia.lu21@gmail.com",
+      "lushnjekoordinatori@gmail.com"
+    ],
+    "transparency_program": "https://bashkialushnje.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-malesi-e-madhe",
+    "type": "municipality",
+    "title": "Bashkia Malësi e Madhe",
+    "address": "",
+    "website": "http://www.bashkiamalesiemadhe.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "Denisgjelaj293@gmail.com",
+      "info@bashkiamalesiemadhe.gov.al"
+    ],
+    "transparency_program": "http://bashkiamalesiemadhe.gov.al/programi-i-transparences-2/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-maliq",
+    "type": "municipality",
+    "title": "Bashkia Maliq",
+    "address": "",
+    "website": "https://bashkiamaliq.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "Andrea.firaj@bashkiamaliq.gov.al"
+    ],
+    "transparency_program": "https://sites.google.com/view/bashkia-maliq?usp=sharing&pli=1 ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-mallakaster",
+    "type": "municipality",
+    "title": "Bashkia Mallakastër",
+    "address": "",
+    "website": "https://bashkiamallakaster.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiamallakaster.gov.al"
+    ],
+    "transparency_program": "https://bashkiamallakaster.gov.al/sq/programi-i-transparences",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-mat",
+    "type": "municipality",
+    "title": "Bashkia Mat",
+    "address": "",
+    "website": "https://bashkiamat.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "kontakt@bashkiamat.gov.al"
+    ],
+    "transparency_program": "https://bashkiamat.gov.al/transparenca/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-memaliaj",
+    "type": "municipality",
+    "title": "Bashkia Memaliaj",
+    "address": "",
+    "website": "https://www.memaliaj.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiamemaliaj.gov.al",
+      "kestiana.zeqaj@bashkiamemaliaj.gov.al"
+    ],
+    "transparency_program": "https://www.memaliaj.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-mirdite",
+    "type": "municipality",
+    "title": "Bashkia Mirditë",
+    "address": "",
+    "website": "http://bashkiamirdite.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "ardiana.laska@bashkiamirdite.gov.al",
+      "ardianalaska@hotmail.com",
+      "info@bashkiamirdite.gov.al"
+    ],
+    "transparency_program": "http://bashkiamirdite.gov.al/?page_id=1668",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-patos",
+    "type": "municipality",
+    "title": "Bashkia Patos",
+    "address": "",
+    "website": "https://www.bashkiapatos.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiapatos.gov.al",
+      "klevisa.zhapaj@bashkiapatos.gov.al"
+    ],
+    "transparency_program": "https://bashkiapatos.gov.al/kerkesa-per-informim/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-peqin",
+    "type": "municipality",
+    "title": "Bashkia Peqin",
+    "address": "",
+    "website": "https://peqini.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "eljana.beheluli@peqini.gov.al",
+      "info@peqini.gov.al"
+    ],
+    "transparency_program": "https://peqini.gov.al/programi/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-permet",
+    "type": "municipality",
+    "title": "Bashkia Përmet",
+    "address": "",
+    "website": "https://bashkiapermet.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiapermet.gov.al"
+    ],
+    "transparency_program": "https://bashkiapermet.gov.al/transparenca/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-pogradec",
+    "type": "municipality",
+    "title": "Bashkia Pogradec",
+    "address": "",
+    "website": "https://bashkiapogradec.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "arsila.cina@bashkiapogradec.gov.al",
+      "info.bashkiapg@bashkiapogradec.gov.al"
+    ],
+    "transparency_program": "https://bashkiapogradec.gov.al/programi-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-polican",
+    "type": "municipality",
+    "title": "Bashkia Poliçan",
+    "address": "",
+    "website": "https://www.polican.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiapolican.gov.al",
+      "info@polican.gov.al",
+      "njvbashkiapolican@gmail.com"
+    ],
+    "transparency_program": "https://www.polican.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-prrenjas",
+    "type": "municipality",
+    "title": "Bashkia Prrenjas",
+    "address": "",
+    "website": "https://www.bashkiaprrenjas.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiaprrenjas.gov.al"
+    ],
+    "transparency_program": "https://www.bashkiaprrenjas.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-puke",
+    "type": "municipality",
+    "title": "Bashkia Pukë",
+    "address": "",
+    "website": "https://bashkiapuke.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "erin_neziri@hotmail.com",
+      "info@bashkiapuke.gov.al"
+    ],
+    "transparency_program": "https://bashkiapuke.gov.al/programi-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-pustec",
+    "type": "municipality",
+    "title": "Bashkia Pustec",
+    "address": "",
+    "website": "https://www.bashkiapustec.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiapustec.gov.al",
+      "mirela.sotirofski90@yahoo.com"
+    ],
+    "transparency_program": "https://www.bashkiapustec.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-roskovec",
+    "type": "municipality",
+    "title": "Bashkia Roskovec",
+    "address": "",
+    "website": "http://bashkiaroskovec.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "delina.hoxha@bashkiaroskovec.gov.al",
+      "info@bashkiaroskovec.gov.al"
+    ],
+    "transparency_program": "http://bashkiaroskovec.gov.al/programi-i-transparences-hyrje-2/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-rrogozhine",
+    "type": "municipality",
+    "title": "Bashkia Rrogozhinë",
+    "address": "",
+    "website": "http://www.bashkiarrogozhine.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "brrogozhine@gmail.com",
+      "kamela.shala@bashkiarrogozhine.gov.al"
+    ],
+    "transparency_program": "http://www.bashkiarrogozhine.gov.al/index.php/transparenca/programi-i-transparences",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-sarande",
+    "type": "municipality",
+    "title": "Bashkia Sarandë",
+    "address": "",
+    "website": "https://bashkiasarande.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "bashkiasarande@yahoo.com",
+      "marinagjika16@gmail.com"
+    ],
+    "transparency_program": "https://bashkiasarande.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-selenice",
+    "type": "municipality",
+    "title": "Bashkia Selenicë",
+    "address": "",
+    "website": "https://www.selenica.gov.al/home/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "bashkia.selenice@gmail.com",
+      "enida.kola@selenica.gov.al"
+    ],
+    "transparency_program": "https://www.selenica.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-shijak",
+    "type": "municipality",
+    "title": "Bashkia Shijak",
+    "address": "",
+    "website": "http://www.shijak.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "hoxhadenalda@gmail.com",
+      "info@shijak.gov.al"
+    ],
+    "transparency_program": "http://www.shijak.gov.al/organizimi-dhe-funksionimi-i-bashkise/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-shkoder",
+    "type": "municipality",
+    "title": "Bashkia Shkodër",
+    "address": "",
+    "website": "https://bashkiashkoder.gov.al/ ",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiashkoder.gov.al",
+      "mpubliku@bashkiashkoder.gov.al"
+    ],
+    "transparency_program": "https://bashkiashkoder.gov.al/programi-i-transparences-i-bashkise-shkoder/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-skrapar",
+    "type": "municipality",
+    "title": "Bashkia Skrapar",
+    "address": "",
+    "website": "https://bashkiaskrapar.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "bashkiacorovode@ymail.com",
+      "info@bashkiaskrapar.gov.al",
+      "ivi.dosti@bashkiaskrapar.gov.al"
+    ],
+    "transparency_program": "https://bashkiaskrapar.gov.al/transparenca/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-tepelene",
+    "type": "municipality",
+    "title": "Bashkia Tepelenë",
+    "address": "",
+    "website": "https://tepelena.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "Koordinator@tepelena.gov.al",
+      "ela.skenderaj@tepelena.gov.al",
+      "info@tepelena.gov.al"
+    ],
+    "transparency_program": "https://tepelena.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-tirane",
+    "type": "municipality",
+    "title": "Bashkia Tiranë",
+    "address": "",
+    "website": "https://tirana.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "edrejtaperinformim@tirana.al",
+      "info@tirana.al",
+      "sonila.jani@tirana.al"
+    ],
+    "transparency_program": "https://tirana.al/programi-i-transparences ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-tropoje",
+    "type": "municipality",
+    "title": "Bashkia Tropojë",
+    "address": "",
+    "website": "https://tropoje.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@tropoje.gov.al"
+    ],
+    "transparency_program": "https://tropoje.gov.al/bashkia/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-vau-i-dejes",
+    "type": "municipality",
+    "title": "Bashkia Vau i Dejës",
+    "address": "",
+    "website": "https://www.vaudejes.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "Info@vaudejes.gov.al",
+      "mersilda.meti@vaudejes.gov.al"
+    ],
+    "transparency_program": "http://www.vaudejes.gov.al/programi-i-transparences-2/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-vlore",
+    "type": "municipality",
+    "title": "Bashkia Vlorë",
+    "address": "",
+    "website": "http://vlora.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@vlora.gov.al",
+      "orlinda.sinanaj@vlora.gov.al"
+    ],
+    "transparency_program": "http://bashkiavlore.org/transparenca/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "bashkia-vore",
+    "type": "municipality",
+    "title": "Bashkia Vorë",
+    "address": "",
+    "website": "https://bashkiavore.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@bashkiavore.gov.al",
+      "xhesika.elezi@bashkiavore.gov.al"
+    ],
+    "transparency_program": "https://bashkiavore.gov.al/transparenca/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-berat",
+    "type": "other",
+    "title": "Këshilli i Qarkut Berat",
+    "address": "",
+    "website": "https://qarkuberat.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "juliana.metko@qarkuberat.gov.al"
+    ],
+    "transparency_program": "https://qarkuberat.gov.al/transparenca/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-diber",
+    "type": "other",
+    "title": "Këshilli i Qarkut Dibër",
+    "address": "",
+    "website": "https://www.qarkudiber.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "dashleka@yahoo.com",
+      "diberregion@gmail.com"
+    ],
+    "transparency_program": "https://qarkudiber.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-durres",
+    "type": "other",
+    "title": "Këshilli i Qarkut Durrës",
+    "address": "",
+    "website": "https://www.qarkudurres.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "kidaismaili@yahoo.com"
+    ],
+    "transparency_program": "http://www.qarkudurres.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-elbasan",
+    "type": "other",
+    "title": "Këshilli i Qarkut Elbasan",
+    "address": "",
+    "website": "https://qarkuelbasan.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "blendi.gremi@qarkuelbasan.gov.al",
+      "info@qarkuelbasan.gov.al"
+    ],
+    "transparency_program": "https://qarkuelbasan.gov.al/transparenca/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-fier",
+    "type": "other",
+    "title": "Këshilli i Qarkut Fier",
+    "address": "",
+    "website": "http://qarkufier.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "ermal.metaj@qarkufier.gov.al",
+      "info@qarkufier.gov.al"
+    ],
+    "transparency_program": "http://qarkufier.gov.al/transparenca/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-gjirokaster",
+    "type": "other",
+    "title": "Këshilli i Qarkut Gjirokastër",
+    "address": "",
+    "website": "https://qarkugjirokaster.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "keshilli.qarkutgjirokaster@yahoo.com"
+    ],
+    "transparency_program": "https://qarkugjirokaster.gov.al/transparenca/program-transparence.html ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-korce",
+    "type": "other",
+    "title": "Këshilli i Qarkut Korçë",
+    "address": "",
+    "website": "https://qarkukorce.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@qarkukorce.gov.al",
+      "maria.furxhi@qarkukorce.gov.al"
+    ],
+    "transparency_program": "https://qarkukorce.gov.al/index.php/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-kukes",
+    "type": "other",
+    "title": "Këshilli i Qarkut Kukës",
+    "address": "",
+    "website": "http://www.kqk.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@kqk.gov.al",
+      "sokol.bela@kqk.gov.al"
+    ],
+    "transparency_program": "http://www.kqk.gov.al/programi-i-transparences",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-lezhe",
+    "type": "other",
+    "title": "Këshilli i Qarkut Lezhë",
+    "address": "",
+    "website": "https://qarkulezhe.com/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "qarkulezhe@gmail.com"
+    ],
+    "transparency_program": "https://qarkulezhe.com/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-shkoder",
+    "type": "other",
+    "title": "Këshilli i Qarkut Shkodër",
+    "address": "",
+    "website": "https://qarkushkoder.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "r@yahoo.com",
+      "valbonaperizi8@gmail.com"
+    ],
+    "transparency_program": "https://qarkushkoder.gov.al/e-drejta-per-tu-informuar-dhe-per-tu-ankuar/#",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-tirane",
+    "type": "other",
+    "title": "Këshilli i Qarkut Tiranë",
+    "address": "",
+    "website": "https://qarkutirane.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "iridaqafoku@gmail.com",
+      "qarkutirane@yahoo.com"
+    ],
+    "transparency_program": "https://qarkutirane.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "keshilli-i-qarkut-vlore",
+    "type": "other",
+    "title": "Këshilli i Qarkut Vlorë",
+    "address": "",
+    "website": "https://qarkuvlore.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@qarkuvlore.gov.al",
+      "kryetari@qarkuvlore.gov.al"
+    ],
+    "transparency_program": "https://qarkuvlore.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-berat",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Berat",
+    "address": "",
+    "website": "http://prefektiiqarkutberat.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "alisa.hoxha@prefektiiqarkut.gov.al"
+    ],
+    "transparency_program": "http://prefektiiqarkutberat.gov.al/transparenca/programi-i-transparences-2/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-diber",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Dibër",
+    "address": "",
+    "website": "http://prefektidiber.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "info@prefekti-diber.gov.al",
+      "mevlan.selmani@prefektidiber.gov.al"
+    ],
+    "transparency_program": "https://prefektidiber.gov.al/transparenca/Programi_i_transparences.html ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-durres",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Durrës",
+    "address": "",
+    "website": "https://www.prefektidurres.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "edisonjonuzi@prefektidurres.gov.al",
+      "edrejtaperinformim@prefektidurres.gov.al",
+      "prefekti.durres@mb.gov.al",
+      "support@prefektidurres.gov.al"
+    ],
+    "transparency_program": "https://www.prefektidurres.gov.al/index.php/transparena-test/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-elbasan",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Elbasan",
+    "address": "",
+    "website": "https://prefektielbasan.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "nestikapurani@yahoo.it",
+      "prefekti.elbasan@mb.gov.al"
+    ],
+    "transparency_program": "https://prefektielbasan.gov.al/transparenca/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-fier",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Fier",
+    "address": "",
+    "website": "http://prefektifier.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "pellumb.feneri@hotmail.com"
+    ],
+    "transparency_program": "http://prefektifier.gov.al/transparenca/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-gjirokaster",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Gjirokastër",
+    "address": "",
+    "website": "http://prefektiqarkutgjirokaster.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "kozeliarben@gmail.com",
+      "prefekti.gjirokaster@mb.gov.al"
+    ],
+    "transparency_program": "http://prefektiqarkutgjirokaster.gov.al/transparenca/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-korce",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Korçë",
+    "address": "",
+    "website": "https://prefektikorce.gov.al/ ",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "blerta.kalemaj1@prefektikorce.gov.al",
+      "prefekti.korce@mb.gov.al"
+    ],
+    "transparency_program": "https://prefektikorce.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-kukes",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Kukës",
+    "address": "",
+    "website": "https://prefekturakukes.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "g.kastrati765@gmail.com",
+      "prefekti.kukes@mb.gov.al"
+    ],
+    "transparency_program": "https://prefekturakukes.gov.al/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-lezhe",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Lezhë",
+    "address": "",
+    "website": "https://prefektilezhe.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "eduard.marku@prefektilezhe.gov.al",
+      "prefektura_lezhe@yahoo.com"
+    ],
+    "transparency_program": "https://prefektilezhe.gov.al/administrata/programi-i-transparences/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-shkoder",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Shkodër",
+    "address": "",
+    "website": "https://www.prefektishkoder.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "prefekti.Shkoder@mb.gov.al"
+    ],
+    "transparency_program": "https://www.prefektishkoder.gov.al/program-transparence/ ",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-tirane",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Tiranë",
+    "address": "",
+    "website": "https://prefektitirane.gov.al/ ",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "prefekti@prefektitirane.gov.al",
+      "saimir.biba@prefektitirane.gov.al"
+    ],
+    "transparency_program": "https://prefektitirane.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  },
+  {
+    "id": "prefekti-i-qarkut-vlore",
+    "type": "prefecture",
+    "title": "Prefekti i Qarkut Vlorë",
+    "address": "",
+    "website": "http://prefektiqarkutvlore.gov.al/",
+    "coordinator": "",
+    "phone": "",
+    "emails": [
+      "dorjana.spaho@prefektiqarkutvlore.gov.al"
+    ],
+    "transparency_program": "https://prefektiqarkutvlore.gov.al/programi-i-transparences/",
+    "information_request_url": "https://regjistri.pyetshtetin.al/home"
+  }
+]

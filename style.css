@@ -1,0 +1,181 @@
+:root {
+  --bg: #f3f4f6;
+  --surface: #ffffff;
+  --text: #111827;
+  --muted: #4b5563;
+  --border: #d1d5db;
+  --primary: #1d4ed8;
+  --primary-hover: #1e40af;
+  --focus: #2563eb;
+}
+
+/* Base */
+body {
+  font-family: system-ui, Arial, sans-serif;
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+/* Header */
+header {
+  position: sticky;
+  top: 0;
+  background: var(--surface);
+  padding: 16px;
+  border-bottom: 2px solid var(--border);
+}
+
+h1 {
+  font-size: 20px;
+  margin: 0 0 6px 0;
+}
+
+.subtitle {
+  font-size: 13px;
+  color: var(--muted);
+  margin: 0 0 12px 0;
+}
+
+/* Search */
+#search {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px; /* important for mobile accessibility */
+  border: 2px solid var(--border);
+  border-radius: 10px;
+}
+
+#search:focus {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-color: var(--focus);
+}
+
+/* Stats */
+#stats {
+  margin-top: 10px;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+/* Layout */
+#list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 16px;
+  padding: 16px;
+}
+
+/* Card */
+.card {
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  padding: 14px;
+}
+
+/* Card header */
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+h3 {
+  font-size: 16px;
+  margin: 0;
+}
+
+/* Badge (must not be color-only meaning) */
+.badge {
+  background: #e0e7ff;
+  color: #1e3a8a;
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  border: 1px solid #c7d2fe;
+}
+
+/* Address */
+.address {
+  font-size: 14px;
+  color: var(--muted);
+  margin: 8px 0;
+}
+
+/* Email chips */
+.emails {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 10px 0;
+}
+
+.chip {
+  font-size: 13px;
+  background: #f9fafb;
+  border: 2px solid var(--border);
+  padding: 5px 8px;
+  border-radius: 999px;
+  cursor: pointer;
+  color: var(--text);
+}
+
+.chip:hover {
+  background: #eef2ff;
+}
+
+/* Buttons + links */
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 12px;
+  gap: 10px;
+}
+
+button {
+  background: var(--primary);
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: var(--primary-hover);
+}
+
+/* IMPORTANT: keyboard accessibility */
+button:focus,
+input:focus,
+.chip:focus {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+}
+
+/* Links */
+a {
+  color: var(--primary);
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+/* Better readability for missing data */
+.muted {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+/* Reduce motion accessibility (optional but good practice) */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    scroll-behavior: auto;
+    transition: none;
+  }
+}
